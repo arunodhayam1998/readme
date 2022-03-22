@@ -1,0 +1,3 @@
+[submodule "readme_sub"]
+	path = readme_sub
+	url = https://github.com/arunodhayam1998/readme_sub.git
